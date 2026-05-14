@@ -5,7 +5,7 @@
 * [TEAM GOYO 활동계획서](./GOYO)
 
 ## 📂 활동 경과
-* [Week 2: 저항의 V-I 특성 및 RC Low Pass Filter 설계 분석](./Lab01_RC%20Filter)
+* [Activity 01: 1차 회의 및 부품 선정](./Actvitiy%2001)
 
 ## 📂 결과물 정리
 
