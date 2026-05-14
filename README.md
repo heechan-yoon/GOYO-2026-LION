@@ -5,7 +5,7 @@
 * [TEAM GOYO 활동계획서](./GOYO)
 
 ## 📂 활동 경과
-* [Activity 01: 1차 회의 및 부품 선정](./Actvity-01.md)
+* [Activity 01: 1차 회의 및 부품 선정](./Actvity_01)
 
 ## 📂 결과물 정리
 
